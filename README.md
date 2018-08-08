@@ -1,16 +1,13 @@
 # ML-2018-19
 Welcome to Machine learning 2018 - 19 Batch.
 
-
-Basic Example For ML Tutorial
-
 Prerequsites:
 
 Linux Platform : Ubuntu 16.04
 
 Programming Language : Python
 
-Software: Python v3.6 TensorFlow Anaconda3 for Jupyter Notebook
+Software: Python v3.6, TensorFlow, Anaconda3 for Jupyter Notebook
 
 Installing software:
 
